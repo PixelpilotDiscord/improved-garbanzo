@@ -5,7 +5,6 @@
 // @description  Block ads, redirects, IP Logger Blockers, and prevent automatic JS injection on web pages
 // @author       Pixel.Pilot
 // @grant        none
-
 // @updateURL    https://github.com/PixelpilotDiscord/improved-garbanzo/blob/main/Test.js
 // ==/UserScript==
 
